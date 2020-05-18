@@ -22,7 +22,7 @@ A selection of the work that I have done with MATLAB in Climate Science.
 ![test](HW8/Figures/Figure%203.jpg)**Figure 7:** First derivative of Planck's Function
 
 
-![test](Project%201/Figures/Figure%203.jpg)**Figure 8:** Calculated global Theta-e (\theta)
+![test](Project%201/Figures/Figure%203.jpg)**Figure 8:** Calculated global Theta-e
 
 
 ![test](Project%202/Figures/Figure%2017.jpg)**Figure 9:** Wind speed at sea level
