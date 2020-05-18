@@ -7,8 +7,6 @@ Computational Methods in Meteorology with MATLAB
 
 ![test](HW3/Figures/Pressure.jpg)**Figure 3:** Calculated global density at sea level
 
-![test](HW6/Figures/Figure%201.jpg)**Figure 4:** Calculated CO<sub>2</sub> over time
-
-![test](HW6/Figures/Figure%202.jpg)**Figure 4:** Calculated CO<sub>2</sub> change over time
+![test](HW6/Figures/Figure%202.jpg)**Figure 4:** Plotting CO<sub>2</sub> change along with linear regression to forecast future change
 
 ![test](HW6/Figures/Figure%203.jpg)**Figure 4:** Calculated global temperature anomalies over time
