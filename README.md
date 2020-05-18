@@ -1,6 +1,9 @@
 # computational-methods
 Computational Methods in Meteorology with MATLAB
-Pressure ![test](HW2/Figures/p1.jpg)
+
+![test](HW2/Figures/p1.jpg)
+**Figure 1:** Calculated global pressure at sea level
+
 Pressure profile at Tucson, AZ ![test](HW2/Figures/p1_tucson.jpg)
 Temperature ![test](HW2/Figures/t1.jpg)
 Temperature profile at Tucson, AZ ![test](HW2/Figures/t1_tucson.jpg)
